@@ -1,0 +1,31 @@
+.weather-card{
+  margin: 50px;
+  padding: 10px;
+  border: solid 1px rgb(226, 226, 226);
+  border-radius: 15px;
+  width: 130px;
+  box-shadow: 5px 5px 15px #EEE;
+  display: inline-block;
+}
+
+.weather-card h3{
+  font-family: sans-serif;
+  margin: 0;
+  font-weight: 100;
+}
+
+.weather-img{
+  width: 50px;
+  margin: 10px;
+}
+
+.degres{
+  font-family: sans-serif;
+  font-weight: 100;
+}
+.degres .min{
+  color:#888;
+}
+.degres .max{
+  color: #000;
+}
